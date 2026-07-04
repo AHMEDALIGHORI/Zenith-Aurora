@@ -380,3 +380,14 @@ The site contains **10 feature sections**, each with a unique accent color and i
 <p align="center">
   <sub>© 2026 Zenith Inc. — Aurora Edition</sub>
 </p>
+
+
+## Suggested GitHub Topics
+
+~~~text
+react vite frontend web-app
+~~~
+
+## License
+
+This project is available under the MIT License. See [LICENSE](LICENSE).
